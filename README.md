@@ -39,5 +39,13 @@ para adicionar uma lista de tarefas , clique no botão (adicionar lista)
 
 ![image](https://github.com/Samuelhc07/ListaDeTarefas1/assets/145080113/36274d45-c9d4-497a-8efa-d87a9c099837)
 
+
 para remover, repita o processo.
+
+
+fim 
+
+
+![image](https://github.com/Samuelhc07/ListaDeTarefas1/assets/145080113/66a645df-1e8f-4349-9fff-2715520765dc)
+
 
