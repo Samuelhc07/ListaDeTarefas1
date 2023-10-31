@@ -18,12 +18,19 @@ Interagindo com a Interface:
 A interface permite a interação com as tarefas usando eventos de ação.
 
 Para adicionar tarefa clique no botão (adicionar tarefa) 
+
 ![image](https://github.com/Samuelhc07/ListaDeTarefas1/assets/145080113/c8be7464-5603-4291-8dbb-c5b7bfe47bec)
+
 logo em seguida basta adicionar a tarefa 
+
 ![image](https://github.com/Samuelhc07/ListaDeTarefas1/assets/145080113/86082fd7-6dc4-4b69-b472-d4d74b7b88f0)
+
 para remover tarefa clique no botão remover tarefa 
+
 ![image](https://github.com/Samuelhc07/ListaDeTarefas1/assets/145080113/e295963b-6383-4770-8bb7-12a764e68ecb)
+
 para adicionar uma lista de tarefas , clique no botão (adicionar lista)
+
 ![image](https://github.com/Samuelhc07/ListaDeTarefas1/assets/145080113/36274d45-c9d4-497a-8efa-d87a9c099837)
 para remover, repita o processo.
 
